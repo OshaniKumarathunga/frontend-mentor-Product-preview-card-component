@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
-![Design preview for the Product preview card component coding challenge](./design/mobile-design.jpg.jpg)
+![Design preview for the Product preview card component coding challenge](./design/desktop-design.jpg)
+![Design preview for the Product preview card component coding challenge](./design/mobile-design.jpg)
 
 
 ### Links
